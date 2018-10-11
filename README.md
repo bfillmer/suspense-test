@@ -1,7 +1,7 @@
 
-# Greenfield
+# Suspense Test
 
-Opinionated application organization and libraries for bootstrapping new React-based applications.
+Testing the new suspense feature in 16.6.0-alpha.
 
 Build pipeline provided by [Create React App](https://github.com/facebookincubator/create-react-app).
 

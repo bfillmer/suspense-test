@@ -1,6 +1,6 @@
 {
-  "short_name": "greenfield",
-  "name": "General React Playground",
+  "short_name": "suspense-test",
+  "name": "Testing Suspense",
   "icons": [
     {
       "src": "favicon.ico",
